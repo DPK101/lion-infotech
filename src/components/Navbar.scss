@@ -1,0 +1,18 @@
+.nav-container {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 20px;
+  background: #3571cd;
+  align-items: center;
+  justify-content: space-between;
+  color: white;
+  font-size: 20px;
+  .right-section {
+    display: flex;
+    justify-content: space-between;
+    width: 120px;
+    margin-right: 10px;
+  }
+}
