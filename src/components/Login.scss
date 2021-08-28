@@ -1,0 +1,57 @@
+.main-container {
+  display: flex;
+  height: 100vh;
+  .left {
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(120deg, rgb(109, 71, 199), white);
+    h1.company {
+      font-size: 60px;
+    }
+  }
+  .right {
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(120deg, #ff9800, white);
+    .login-container {
+      border: 1px solid #32a0a3;
+      padding: 53px;
+      background: #00bcd4;
+      box-shadow: 15px 11px 11px -10px;
+      border-radius: 10px;
+      h1 {
+        margin: 10px 0px;
+      }
+      .user-types {
+        padding: 5px;
+        padding-left: 0;
+        width: 200px;
+        // display: flex;
+        // align-items: center;
+        .user-type {
+          font-size: 20px;
+          font-family: 'Roboto', sans-serif;
+          padding-left: 5px;
+        }
+      }
+      .submit-button {
+        margin: 5px;
+        padding: 5px 10px;
+        outline: none;
+        font-size: 20px;
+        font-family: 'Roboto', sans-serif;
+        background: linear-gradient(90deg, #00274f, #2a7395);
+        border: 1px solid #ffffff00;
+        border-radius: 5px;
+        color: whitesmoke;
+      }
+    }
+  }
+}
+div {
+  // border: 1px solid grey;
+}

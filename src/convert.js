@@ -14,7 +14,7 @@ const convert = (file, callback) => {
       var wsItem = wb.Sheets[wsnameItems];
 
       /* Convert array of arrays */
-      var items = XLSX.utils.sheet_to_json(wsItem, { header: 1 });
+      var items = XLSX.utils.sheet_to_json(wsItem, { header: 1, defval: "" });
 
       /* Get first worksheet */
       var wsnameLocations = wb.SheetNames[1];
