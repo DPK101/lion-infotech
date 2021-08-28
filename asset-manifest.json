@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/lion-infotech/static/css/main.164de9b2.chunk.css",
+    "main.js": "/lion-infotech/static/js/main.84c57f6a.chunk.js",
+    "main.js.map": "/lion-infotech/static/js/main.84c57f6a.chunk.js.map",
+    "runtime-main.js": "/lion-infotech/static/js/runtime-main.e9911cc9.js",
+    "runtime-main.js.map": "/lion-infotech/static/js/runtime-main.e9911cc9.js.map",
+    "static/js/2.aa102ec8.chunk.js": "/lion-infotech/static/js/2.aa102ec8.chunk.js",
+    "static/js/2.aa102ec8.chunk.js.map": "/lion-infotech/static/js/2.aa102ec8.chunk.js.map",
+    "static/js/3.f9e56373.chunk.js": "/lion-infotech/static/js/3.f9e56373.chunk.js",
+    "static/js/3.f9e56373.chunk.js.map": "/lion-infotech/static/js/3.f9e56373.chunk.js.map",
+    "index.html": "/lion-infotech/index.html",
+    "static/css/main.164de9b2.chunk.css.map": "/lion-infotech/static/css/main.164de9b2.chunk.css.map",
+    "static/js/2.aa102ec8.chunk.js.LICENSE.txt": "/lion-infotech/static/js/2.aa102ec8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e9911cc9.js",
+    "static/js/2.aa102ec8.chunk.js",
+    "static/css/main.164de9b2.chunk.css",
+    "static/js/main.84c57f6a.chunk.js"
+  ]
+}
